@@ -349,4 +349,4 @@ Updated `07222022-102936`
 - https://archive.org/details/DJScrewChapter3404thWard1995
 - https://archive.org/details/DJScrewChapter341SmokeOn1994
 - https://archive.org/details/DJScrewChapter342ClubNewJack1991
-- https://archive.org/details/DJScrewChapter343WhatsReallyGoinOn1995
+# - https://archive.org/details/DJScrewChapter343WhatsReallyGoinOn1995
